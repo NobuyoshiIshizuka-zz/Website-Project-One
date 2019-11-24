@@ -198,3 +198,15 @@ form h2{
     width: 70px;
 }
 
+.footer{
+   /* clear: both; */
+   border-top: 2px solid #888888;
+   padding: 20px 0;
+   text-align: center;
+   color: 8px;
+}
+
+.footer p{
+    margin-top: 8px;
+}
+
